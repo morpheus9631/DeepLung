@@ -42,5 +42,7 @@
 </br>
 <img src="https://user-images.githubusercontent.com/23013229/103987393-616ff100-51c7-11eb-9e13-4e5786509c47.png" width="800">
 
-https://github.com/morpheus9631/DeepLung/assets/23013229/cf08e87b-6d92-41b1-b5cd-87cfb5710f78
+https://github.com/morpheus9631/DeepLung/assets/23013229/40118a25-8b3a-4f44-9767-4aef0fc604e9
+
+
 
