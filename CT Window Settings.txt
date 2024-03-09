@@ -1,0 +1,33 @@
+CT Woindow settings:
+
+Based on MicroDicom 
+
+	Abdomen      (L:10,   W:400)
+	Bone         (L:300,  W:2500) 
+	Felsenbein   (L:500,  W:4000)
+	Lung         (L:-400, W:1600) 
+	Mediastinum  (L:10,   W:450)
+	Skull        (L:25,   W:95)
+	Soft tissue  (L:40,   W:400)
+	Spine        (L:20,   W:300) 
+	Postmyelo    (L:200,  W:1000)
+
+
+From websit 1
+
+	Abdominal	(W:400,  L:40)
+	Bone		(W:2000, L:500)
+	Brain		(W:70,   L:30)   or (W:70,   L:35)   or (W:80 L:40)
+	CTA		(W:600,  L:170)  or (W:650,  L:225)
+	Liver		(W:160,  L:60)
+	Lung		(W:1600, L:-600) or (W:1500, L:-500)
+	Mediastinal	(W:500,  L:50)
+	Soft tissue	(W:350,  L:50)
+	Stroke		(W:30,   L:30)
+
+
+From Website 2
+
+	soft tissue	(L:50,    W:350)
+	lung 		(L:-200, W:2000)
+	bone		(L:300,  W:2000)
